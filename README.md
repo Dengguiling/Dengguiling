@@ -15,7 +15,7 @@
 
   <!-- Typing String -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&&lines=Hi, I'm Dengguiling;Thanks+for+visiting+my+homepage!;Have+a+nice+day!+%E2%99%AA%EF%BC%88%EF%BC%BE%E2%88%80%EF%BC%BE%E2%97%8F%EF%BC%89%EF%BE%89)&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&&lines=Hi, I'm Dengguiling;Have+a+nice+day!+%E2%99%AA%EF%BC%88%EF%BC%BE%E2%88%80%EF%BC%BE%E2%97%8F%EF%BC%89%EF%BE%89)&center=true&size=27" alt="Typing SVG" />
   </div>
 
   <!-- profile -->
@@ -74,10 +74,18 @@
 <!-- 其他展示 -->
 
 <div align="center">
-  <!-- netease-recent-profile: 展示最近听过得音乐 -->
-  <img src="https://netease-recent-profile.vercel.app/?id=3721069308&type=1&size=60&number=15&column=3&cache=86400" title="My favorite music">
+  <!-- netease-recent-profile -->
+  <div align="center">
+    <img src="https://netease-recent-profile.vercel.app/?id=3721069308&type=1&size=60&number=15&column=3&cache=86400" title="My favorite music">
+  </div>
+
+  <!-- Top languages -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dengguiling" title="Top Langs">
+  </div>
+
+  <!-- Github Streak Stats -->
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Dengguiling&theme=rose-pine&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" title="Github Streak Stats">
+  </div>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengguiling)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Streak Stats](https://streak-stats.demolab.com?user=Dengguiling&theme=rose-pine&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)
